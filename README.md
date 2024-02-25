@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey There 👋</h1><br>
+<h1 align="center">Hey Everyone 👋</h1>
 <h2 align="center">My name is Huzaifa Subhani.</h2>
 
 
@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-<div align="right">
   <img height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 
