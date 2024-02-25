@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2022/11/What-Is-a-Coder.png" />
+  <img height="150" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png" />
 </div>
 
 ###
