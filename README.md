@@ -1,22 +1,12 @@
-<div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</div>
+
+
+<h1 align="center">Hey There 👋</h1><br>
+<h2 align="center">My name is Huzaifa Subhani.</h2>
+
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/huzaifasubhani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hey There 👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -53,4 +43,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+<div align="right">
+  <img height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
+<h3 align="left">👩‍💻  Contact</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/huzaifasubhani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
