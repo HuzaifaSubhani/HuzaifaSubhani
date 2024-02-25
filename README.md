@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/3AyY.gif" />
+  <img height="150" src="https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2022/11/What-Is-a-Coder.png" />
 </div>
 
 ###
