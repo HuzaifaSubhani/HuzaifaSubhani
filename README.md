@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/pandas-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/pandas.svg" height="40" alt="vscode logo"  />
 </div>
 
 <h3 align="center">👩‍💻  Contact</h3>
