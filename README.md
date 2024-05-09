@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">I'm a Student from Karachi University<br><br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I learn about AI and ML as I am Obsessively passionate about delving into the intricate realms of Artificial Intelligence and Machine Learning, constantly pushing the boundaries of understanding and exploring the limitless possibilities within these transformative fields."</p>
+<p align="center">I'm a Student from Karachi University<br><br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I learn about AI and ML as I am Obsessively passionate about delving into the intricate realms of Artificial Intelligence and Machine Learning, constantly pushing the boundaries of understanding and exploring the limitless possibilities within these transformative fields."</p>
 
 ###
 
