@@ -1,15 +1,15 @@
 <h1>Hey 👋, I'm Huzaifa </h1>
 <p>
-  <img align="right" src="https://i.gifer.com/3AyY.gif" alt="Animated Developer Image" width="300">
   A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).
 </p>
-
+<p>
 - 🔭 I’m currently working on [Research Catalyst](https://resarch-catalyst.streamlit.app/)
 - 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://huzaifasubhani.vercel.app/](https://huzaifasubhani.vercel.app/)
+  <img align="right" src="https://i.gifer.com/3AyY.gif" alt="Animated Developer Image" width="300">
 - 💬 Ask me about **Django, Backend Development, Web development, Datascience, Pandas, Numpy, Matplotlib**
 - 📫 How to reach me **huzaifasubhani.hs@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huzaifasubhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifasubhani" height="30" width="40" /></a>
