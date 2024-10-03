@@ -1,13 +1,12 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHKqx3VX4EKJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718312784819?e=1733356800&v=beta&t=1nMboUjwYDjtqEDyp5qB3DNXaAe_VD_UAICO3RtpZf4">
 <h1>Hey 👋, I'm Huzaifa </h1>
 <p>A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).</p>
-<img src="https://i.gifer.com/3AyY.gif"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasubhani&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasubhani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifasubhani&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasubhani" /> </p>
 
 - 🔭 I’m currently working on [Research Catalyst](https://resarch-catalyst.streamlit.app/)
 
 - 🌱 I’m currently learning **Backend Development**
+<img src="https://i.gifer.com/3AyY.gif"></img>
 
 - 👨‍💻 All of my projects are available at [https://huzaifasubhani.vercel.app/](https://huzaifasubhani.vercel.app/)
 
