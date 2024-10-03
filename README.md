@@ -1,19 +1,22 @@
 <h1>Hey 👋, I'm Huzaifa </h1>
-<p>A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifasubhani&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasubhani" /> </p>
-
-- 🔭 I’m currently working on [Research Catalyst](https://resarch-catalyst.streamlit.app/)
-
-- 🌱 I’m currently learning **Backend Development**
-<img src="https://i.gifer.com/3AyY.gif"></img>
-
-- 👨‍💻 All of my projects are available at [https://huzaifasubhani.vercel.app/](https://huzaifasubhani.vercel.app/)
-
-- 💬 Ask me about **Django, Backend Development, Web development, Datascience, Pandas, Numpy, Matplotlib**
-
-- 📫 How to reach me **huzaifasubhani.hs@gmail.com**
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).</p>
+    
+    - 🔭 I’m currently working on [Research Catalyst](https://resarch-catalyst.streamlit.app/)
+    
+    - 🌱 I’m currently learning **Backend Development**
+    
+    - 👨‍💻 All of my projects are available at [https://huzaifasubhani.vercel.app/](https://huzaifasubhani.vercel.app/)
+    
+    - 💬 Ask me about **Django, Backend Development, Web development, Datascience, Pandas, Numpy, Matplotlib**
+    
+    - 📫 How to reach me **huzaifasubhani.hs@gmail.com**
+  </div>
+  <div style="flex: 1;">
+    <img src="https://i.gifer.com/3AyY.gif" alt="Animated Developer Image" style="max-width: 100%; height: auto;"/>
+  </div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huzaifasubhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifasubhani" height="30" width="40" /></a>
