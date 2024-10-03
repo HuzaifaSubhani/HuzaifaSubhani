@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Subhani</h1>
 <h3 align="center">Software Engineer / Data-Scientist from Pakistan</h3>
-  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB6YWNnNWN0MTd2d2t2czU4ZDI5a21hbGMydTZvaDh2dmprbGlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)></img>
+  <img src="https://i.gifer.com/3AyY.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasubhani&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasubhani" /> </p>
 
