@@ -1,6 +1,6 @@
-<h1>Hey 👋, I'm Huzaifa </h1>
+<h1>Hey 👋, I'm **Huzaifa** </h1>
 <p>
-  A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).
+  A **Backend Developer** passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of **MLSA-UOK** (Microsoft Learn Student Ambassador - University of Karachi).
   <br>
   <img align="right" src="https://i.gifer.com/3AyY.gif" alt="Animated Developer Image" width="500">
 </p>
