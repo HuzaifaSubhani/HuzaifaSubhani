@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Subhani</h1>
-<h3 align="center">Software Engineer / Data-Scientist from Pakistan</h3>
-  <img src="https://i.gifer.com/3AyY.gif"></img>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHKqx3VX4EKJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718312784819?e=1733356800&v=beta&t=1nMboUjwYDjtqEDyp5qB3DNXaAe_VD_UAICO3RtpZf4">
+<h1>Hey 👋, I'm Huzaifa </h1>
+<p>A Backend Developer passionate about building robust and scalable applications. Proficient in Django and eager to explore the intersection of AI/ML with backend development. Currently pursuing a Software Engineering degree, with a solid foundation in frontend technologies. Active member of MLSA-UOK (Microsoft Learn Student Ambassador - University of Karachi).</p>
+<img src="https://i.gifer.com/3AyY.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasubhani&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasubhani" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://huzaifasubhani.vercel.app/](https://huzaifasubhani.vercel.app/)
 
-- 💬 Ask me about **Django, Backend Development, Pandas, Numpy, Matplotlib**
+- 💬 Ask me about **Django, Backend Development, Web development, Datascience, Pandas, Numpy, Matplotlib**
 
 - 📫 How to reach me **huzaifasubhani.hs@gmail.com**
 
@@ -25,4 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifasubhani&show_icons=true&locale=en&layout=compact" alt="huzaifasubhani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifasubhani&show_icons=true&locale=en" alt="huzaifasubhani" /></p>
