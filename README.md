@@ -15,9 +15,9 @@
 <h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huzaifasubhani" target="blank">
-  <img align="center" src="https://github.com/user-attachments/assets/114842d6-41c5-4f5a-a3de-c5b0f2e90959" alt="huzaifasubhani" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/user-attachments/assets/114842d6-41c5-4f5a-a3de-c5b0f2e90959" alt="huzaifasubhani" height="40" width="40" /></a>
 <a href="https://instagram.com/huzaifaaa.exe" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaifaaa.exe" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/user-attachments/assets/a68ffd0d-9976-4a3f-9b90-8e14b49c7489" alt="huzaifaaa.exe" height="40" width="40" /></a>
 </p>
 
 
